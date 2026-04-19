@@ -1,0 +1,8 @@
+# Simple DC Circuit
+# V1: 9V source between node 0 and node 1
+# R1: 100 ohm resistor between node 1 and node 2
+# R2: 200 ohm resistor between node 2 and node 0
+
+V1 0 1 9
+R1 1 2 100
+R2 2 0 200
